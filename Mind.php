@@ -2,7 +2,7 @@
 /**
  *
  * @package    Mind
- * @version    Release: 4.8.1 (For 4.7.9 and earlier: https://github.com/aliyilmaz/Mind)
+ * @version    Release: 1.0.0 (Alternative single-file version.: https://github.com/aliyilmaz/Mind)
  * @license    GPL3
  * @author     Ali YILMAZ <aliyilmaz.work@gmail.com>
  * @category   Php Framework, Design pattern builder for PHP, New generation composer.
