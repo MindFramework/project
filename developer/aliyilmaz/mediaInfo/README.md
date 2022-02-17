@@ -11,14 +11,15 @@ code:
 require_once('Mind.php');
 $m = new Mind();
 $filePath = '1.mp4';
-echo $m::aliyilmaz('mediaInfo')->mediaInfo($filePath);
+print_r($m::aliyilmaz('mediaInfo')->mediaInfo($filePath));
 ```
 
 **When using it in the class:**
 
 code:
 ```php
-echo self::aliyilmaz('mediaInfo')->mediaInfo($filePath);
+$filePath = '1.mp4';
+print_r(self::aliyilmaz('mediaInfo')->mediaInfo($filePath));
 ```
 
 output:
