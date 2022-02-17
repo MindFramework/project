@@ -1,4 +1,4 @@
-## What is mediaInfp ?
+## What is mediaInfo ?
 
 This package uses the `getID3()` project. For more information, you can visit the [project page](https://github.com/JamesHeinrich/getID3).
 
