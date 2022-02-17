@@ -16,7 +16,7 @@ class mediaInfo extends Mind
     /**
      * Provides media information.
      * @param string $filePath
-     * @return string
+     * @return array
      */
     function mediaInfo($filePath){
         require_once('./developer/'.self::$path.'/getID3/getid3/getid3.php');
